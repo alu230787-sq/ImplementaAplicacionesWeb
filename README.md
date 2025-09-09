@@ -1,3 +1,4 @@
 # ImplementaAplicacionesWeb
 AppWeb1.php <br>
-<img width="796" height="252" alt="image" src="https://github.com/user-attachments/assets/76c8b9eb-fbd5-4919-8a88-aaf2fba05757" />
+<img width="812" height="177" alt="image" src="https://github.com/user-attachments/assets/99feaa35-5fb0-4a55-872a-f28cbfe34add" />
+
